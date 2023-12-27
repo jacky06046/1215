@@ -8,5 +8,6 @@ $value3 = 3;
 $value4 = 4;
 $value5 = 5;
 $value6 = 6;
+$value7 = 7;
 echo 11;
 ?>
